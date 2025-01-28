@@ -51,7 +51,7 @@ the box allows it's left and top possition to be managed by state, but it itself
           setDragging(true)
         }}
       >
-        box
+        Drag Me!
       </div>
     </main>
   )
